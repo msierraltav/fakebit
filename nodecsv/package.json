@@ -1,0 +1,16 @@
+{
+  "name": "nodecsv",
+  "version": "1.0.0",
+  "description": "a perser to add a csv to a mongo db database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "msierralta",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "path": "^0.12.7",
+    "mongodb": "^5.7.0"
+  }
+}
